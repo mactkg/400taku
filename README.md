@@ -1,5 +1,5 @@
 ##There is very important bug!!!!##
-encode bug:)
+encode bug:(
 
 400taku.py - Hyakunin-Isshu quiz game
 
