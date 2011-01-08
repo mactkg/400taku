@@ -1,3 +1,6 @@
+##There is very important bug!!!!##
+encode bug:)
+
 400taku.py - Hyakunin-Isshu quiz game
 
 ##What is it?##
