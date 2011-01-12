@@ -10,8 +10,8 @@ It is Hyakunin-Isshu quiz game.
 
 2 Type number of answer
 
-##If you are using Windows##
-'$ python setup.py py2exe'
+###If you are using Windows###
+`$ python setup.py py2exe`
 and start dist/400taku.exe
 
 ##Licence##
