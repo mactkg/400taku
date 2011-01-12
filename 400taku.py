@@ -208,7 +208,7 @@ sdata = ["わが衣手に露はぬれつつ",
 "世を思ふゆゑに物思ふ身は"]
 
 def printq(trueans, returnlist):
-	print kdata[trueans]
+	print unicode(kdata[trueans], 'utf-8')
 	f = 0
 	for i in returnlist:
 		f = f + 1
