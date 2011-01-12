@@ -1,10 +1,7 @@
 400taku.py - Hyakunin-Isshu quiz game
 
 ##What is it?##
-pass :)
-
-####What is "Hyakunin-Isshu"?###
-pass :)
+It is Hyakunin-Isshu quiz game.
 
 ##How To Play##
 `$ python 400taku.py`
@@ -13,7 +10,9 @@ pass :)
 
 2 Type number of answer
 
-If you want to stop, please press down Ctrl-d :)
+##If you are using Windows##
+'$ python setup.py py2exe'
+and start dist/400taku.exe
 
 ##Licence##
 MIT Licence
