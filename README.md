@@ -12,6 +12,7 @@ It is Hyakunin-Isshu quiz game.
 
 ###If you are using Windows###
 `$ python setup.py py2exe`
+
 and start dist/400taku.exe
 
 ##Licence##
