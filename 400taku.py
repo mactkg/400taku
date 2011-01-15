@@ -225,7 +225,7 @@ def main():
 	returnlist = []
 	leftlist = []
 	how = howmany()
-	for i in range(0,100):
+	for i in range(0,99):
 		leftlist.append(int(i))
 
 	for i in range(how):
@@ -245,10 +245,10 @@ def main():
 			per = per + 1.0
 		else:
 			print u"wrong"
-		print u"ans:" + str(kdata[trueans]) + u" " + str(sdata[trueans]) + u" :" + str(trueans)
+		print u"ans:" + str(kdata[trueans]) + u" " + str(sdata[trueans]) + u" :" + str(trueans + 1)
 		del returnlist[:]
 	print str(100 * per / how) + u"% (" + str(int(per)) + u"/" + str(how) + u")" 
 
 if __name__ == '__main__':
 	main()
-	raw_input('Press return key.')
+	raw_input(u'Press return key.')
